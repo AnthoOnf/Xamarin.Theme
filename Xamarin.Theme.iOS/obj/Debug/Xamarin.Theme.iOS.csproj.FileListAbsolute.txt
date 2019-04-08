@@ -1,0 +1,10 @@
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/bin/Debug/Xamarin.Theme.iOS.dll
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/bin/Debug/Xamarin.Theme.iOS.pdb
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/bin/Debug/Xamarin.Theme.Core.dll
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/bin/Debug/Xamarin.Theme.Core.pdb
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/optimized/
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/Xamarin.Theme.iOS.csprojAssemblyReference.cache
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/Xamarin.Theme.iOS.csproj.CoreCompileInputs.cache
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/Xamarin.Theme.iOS.csproj.CopyComplete
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/Xamarin.Theme.iOS.dll
+/Users/anthony/Projects/wowcompanionhelper/Xamarin.Theme.iOS/obj/Debug/Xamarin.Theme.iOS.pdb
